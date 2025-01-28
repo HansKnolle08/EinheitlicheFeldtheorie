@@ -25,9 +25,12 @@ WissenschaftsProjekt/
 │   │   │   ├── gravity_simulation.py
 │   │   │   ├── strong_force_simulation.py
 │   │   │   ├── weak_force_simulation.py
+├── create_database.bat
 ├── LICENSE
 ├── README.md
 ├── .gitignore
+├── reset.bat
+├── run.bat
 ```
 
 ## Installation
@@ -42,10 +45,15 @@ WissenschaftsProjekt/
    ```
 4. Stelle sicher, dass SQLite aktiviert ist.
 
+5. Führe die Datei setup.bat direkt aus, oder im Terminal:
+   ```bash
+   .\setup.bat
+   ```
+
 ## Nutzung
 Starte die Simulationen, indem du den folgenden Befehl ausführst:
 ```bash
-python src/main.py
+.\run.bat
 ```
 Das Programm führt die elektromagnetischen und Gravitationssimulationen parallel aus und speichert die Ergebnisse in der SQLite-Datenbank.
 
