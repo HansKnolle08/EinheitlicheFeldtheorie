@@ -5,16 +5,15 @@ import logging
 import os
 
 # Logging-Konfiguration
-log_dir = 'src/logs'
-os.makedirs(log_dir, exist_ok=True)
-
-log_file = os.path.join(log_dir, 'electromagnetic_simulation.log')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, '..', '..', 'database', 'simulation_data.db')
+LOG_PATH = os.path.join(BASE_DIR, '..', '..', 'logs', 'simulations.log')
 
 logging.basicConfig(
     level=logging.DEBUG,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(log_file),
+        logging.FileHandler(LOG_PATH),
         logging.StreamHandler()
     ]
 )
@@ -52,7 +51,7 @@ def insert_electromagnetic_data(time, electric_field, magnetic_field):
     """
     Speichert die elektromagnetischen Felder in der Datenbank.
     """
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     cursor.execute("""

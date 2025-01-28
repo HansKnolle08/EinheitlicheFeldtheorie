@@ -5,16 +5,15 @@ import logging
 import os
 
 # Logging-Konfiguration
-log_dir = 'src/logs'
-os.makedirs(log_dir, exist_ok=True)  # Stelle sicher, dass das Verzeichnis existiert
-
-log_file = os.path.join(log_dir, 'gravity_simulation.log')
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, '..', '..', 'database', 'simulation_data.db')
+LOG_PATH = os.path.join(BASE_DIR, '..', '..', 'logs', 'simulations.log')
 
 logging.basicConfig(
     level=logging.DEBUG,  # Setzt das Log-Level auf DEBUG, um alle Log-Nachrichten zu erfassen
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(log_file),  # Loggen in eine Datei
+        logging.FileHandler(LOG_PATH),  # Loggen in eine Datei
         logging.StreamHandler()  # Loggen im Terminal
     ]
 )
@@ -35,7 +34,7 @@ def init_simulation_state():
     """
     Erstellt die Tabelle für den letzten gespeicherten Zeitpunkt, falls noch nicht vorhanden.
     """
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     # Tabelle für den letzten gespeicherten Zeitpunkt
@@ -58,7 +57,7 @@ def get_last_simulation_time():
     """
     Lädt den letzten gespeicherten Zeitpunkt aus der Datenbank.
     """
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     cursor.execute("SELECT last_time FROM simulation_state WHERE id = 1")
@@ -73,7 +72,7 @@ def update_simulation_time(current_time):
     """
     Aktualisiert den gespeicherten Zeitpunkt in der Datenbank.
     """
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     cursor.execute("UPDATE simulation_state SET last_time = ? WHERE id = 1", (current_time,))
@@ -123,7 +122,7 @@ def insert_gravity_data(time, position_earth, position_moon, velocity_earth, vel
     """
     Speichert die aktuellen Daten in der Datenbank.
     """
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     cursor.execute(""" 

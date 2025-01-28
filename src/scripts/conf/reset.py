@@ -1,10 +1,15 @@
 import sqlite3
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, '..', '..', 'database', 'simulation_data.db')
+LOG_PATH = os.path.join(BASE_DIR, '..', '..', 'logs', 'simulations.log')
 
 def reset_database():
     """
     Setzt die gesamte Datenbank zurück, indem alle Tabellen gelöscht und neu erstellt werden.
     """
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
 
     # Lösche alle Tabellen, falls sie existieren
@@ -87,5 +92,14 @@ def reset_database():
 
     print("Database reset complete.")
 
+def reset_logs():
+    if os.path.exists(LOG_PATH):
+        os.remove(LOG_PATH)
+        print("Logs reset complete.")
+        
+    else:
+        print("File not found.")
+
 if __name__ == "__main__":
     reset_database()
+    reset_logs()

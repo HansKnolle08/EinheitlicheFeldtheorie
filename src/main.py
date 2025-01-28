@@ -1,14 +1,25 @@
+# src/main.py
+
+###########
+# IMPORTS #
+###########
 from multiprocessing import Process
-from models.simulations.electromagnetic_simulation import run_elec_simulation
-from models.simulations.gravity_simulation import init_simulation_state, run_grav_simulation
+from scripts.simulations.electromagnetic_simulation import run_elec_simulation
+from scripts.simulations.gravity_simulation import init_simulation_state, run_grav_simulation
+from scripts.funcs.timestamp_dec import *
 
-
+#############
+# FUNCTIONS #
+#############
 def run_gravity_simulation():
     init_simulation_state()
     run_grav_simulation()
 
-
-if __name__ == '__main__':
+#################
+# MAIN FUNCTION #
+#################
+@timestamp_dec
+def main():
     # Prozesse erstellen
     process1 = Process(target=run_elec_simulation)
     process2 = Process(target=run_gravity_simulation)
@@ -22,3 +33,9 @@ if __name__ == '__main__':
     process2.join()
 
     print("Beide Simulationen sind abgeschlossen!")
+
+###############
+# ENTRY POINT #
+###############
+if __name__ == '__main__':
+    main()

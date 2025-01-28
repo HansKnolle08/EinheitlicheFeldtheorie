@@ -1,4 +1,8 @@
 import sqlite3
+import os
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_PATH = os.path.join(BASE_DIR, '..', '..', 'database', 'simulation_data.db')
 
 def initialize_database():
     """
@@ -6,7 +10,7 @@ def initialize_database():
     Creates tables for the simulation data and the results.
     """
     # Verbindung zur Datenbank aufbauen (wird erstellt, falls noch nicht vorhanden)
-    conn = sqlite3.connect('src/database/simulation_data.db')
+    conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     
     # Tabellen erstellen
