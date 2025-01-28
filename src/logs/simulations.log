@@ -10087,3 +10087,249 @@
 2025-01-28 14:00:40,898 - DEBUG - Aktualisierte Geschwindigkeiten: Erde: (2.8447288468182914, 0.32821165208380093, 0.0), Mond: (-231.20196887859055, 995.3249865780554, 0.0)
 2025-01-28 14:00:40,898 - INFO - Daten für Zeit 86400 gespeichert.
 2025-01-28 14:00:41,010 - INFO - Gravitationssimulation abgeschlossen.
+2025-01-28 17:51:33,942 - INFO - Starke Wechselwirkungssimulation startet. Gesamtdauer: 60.0 Minuten, Zeitschritt: 60 Sekunden.
+2025-01-28 17:51:33,942 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:33,962 - INFO - Daten für Teilchen 1 bei Zeit 0s gespeichert.
+2025-01-28 17:51:33,963 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:33,974 - INFO - Daten für Teilchen 2 bei Zeit 0s gespeichert.
+2025-01-28 17:51:34,085 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,099 - INFO - Daten für Teilchen 1 bei Zeit 60s gespeichert.
+2025-01-28 17:51:34,100 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,109 - INFO - Daten für Teilchen 2 bei Zeit 60s gespeichert.
+2025-01-28 17:51:34,210 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,226 - INFO - Daten für Teilchen 1 bei Zeit 120s gespeichert.
+2025-01-28 17:51:34,228 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,244 - INFO - Daten für Teilchen 2 bei Zeit 120s gespeichert.
+2025-01-28 17:51:34,350 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,365 - INFO - Daten für Teilchen 1 bei Zeit 180s gespeichert.
+2025-01-28 17:51:34,366 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,381 - INFO - Daten für Teilchen 2 bei Zeit 180s gespeichert.
+2025-01-28 17:51:34,482 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,496 - INFO - Daten für Teilchen 1 bei Zeit 240s gespeichert.
+2025-01-28 17:51:34,497 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,510 - INFO - Daten für Teilchen 2 bei Zeit 240s gespeichert.
+2025-01-28 17:51:34,616 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,642 - INFO - Daten für Teilchen 1 bei Zeit 300s gespeichert.
+2025-01-28 17:51:34,642 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,655 - INFO - Daten für Teilchen 2 bei Zeit 300s gespeichert.
+2025-01-28 17:51:34,760 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,775 - INFO - Daten für Teilchen 1 bei Zeit 360s gespeichert.
+2025-01-28 17:51:34,776 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,790 - INFO - Daten für Teilchen 2 bei Zeit 360s gespeichert.
+2025-01-28 17:51:34,892 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,907 - INFO - Daten für Teilchen 1 bei Zeit 420s gespeichert.
+2025-01-28 17:51:34,909 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:34,929 - INFO - Daten für Teilchen 2 bei Zeit 420s gespeichert.
+2025-01-28 17:51:35,032 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,047 - INFO - Daten für Teilchen 1 bei Zeit 480s gespeichert.
+2025-01-28 17:51:35,048 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,062 - INFO - Daten für Teilchen 2 bei Zeit 480s gespeichert.
+2025-01-28 17:51:35,164 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,178 - INFO - Daten für Teilchen 1 bei Zeit 540s gespeichert.
+2025-01-28 17:51:35,180 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,196 - INFO - Daten für Teilchen 2 bei Zeit 540s gespeichert.
+2025-01-28 17:51:35,298 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,311 - INFO - Daten für Teilchen 1 bei Zeit 600s gespeichert.
+2025-01-28 17:51:35,312 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,325 - INFO - Daten für Teilchen 2 bei Zeit 600s gespeichert.
+2025-01-28 17:51:35,427 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,442 - INFO - Daten für Teilchen 1 bei Zeit 660s gespeichert.
+2025-01-28 17:51:35,443 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,456 - INFO - Daten für Teilchen 2 bei Zeit 660s gespeichert.
+2025-01-28 17:51:35,557 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,571 - INFO - Daten für Teilchen 1 bei Zeit 720s gespeichert.
+2025-01-28 17:51:35,571 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,586 - INFO - Daten für Teilchen 2 bei Zeit 720s gespeichert.
+2025-01-28 17:51:35,687 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,702 - INFO - Daten für Teilchen 1 bei Zeit 780s gespeichert.
+2025-01-28 17:51:35,703 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,718 - INFO - Daten für Teilchen 2 bei Zeit 780s gespeichert.
+2025-01-28 17:51:35,820 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,834 - INFO - Daten für Teilchen 1 bei Zeit 840s gespeichert.
+2025-01-28 17:51:35,834 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,848 - INFO - Daten für Teilchen 2 bei Zeit 840s gespeichert.
+2025-01-28 17:51:35,949 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,964 - INFO - Daten für Teilchen 1 bei Zeit 900s gespeichert.
+2025-01-28 17:51:35,965 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:35,979 - INFO - Daten für Teilchen 2 bei Zeit 900s gespeichert.
+2025-01-28 17:51:36,090 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,113 - INFO - Daten für Teilchen 1 bei Zeit 960s gespeichert.
+2025-01-28 17:51:36,114 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,127 - INFO - Daten für Teilchen 2 bei Zeit 960s gespeichert.
+2025-01-28 17:51:36,228 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,244 - INFO - Daten für Teilchen 1 bei Zeit 1020s gespeichert.
+2025-01-28 17:51:36,245 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,257 - INFO - Daten für Teilchen 2 bei Zeit 1020s gespeichert.
+2025-01-28 17:51:36,359 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,374 - INFO - Daten für Teilchen 1 bei Zeit 1080s gespeichert.
+2025-01-28 17:51:36,375 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,390 - INFO - Daten für Teilchen 2 bei Zeit 1080s gespeichert.
+2025-01-28 17:51:36,491 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,506 - INFO - Daten für Teilchen 1 bei Zeit 1140s gespeichert.
+2025-01-28 17:51:36,507 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,537 - INFO - Daten für Teilchen 2 bei Zeit 1140s gespeichert.
+2025-01-28 17:51:36,642 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,657 - INFO - Daten für Teilchen 1 bei Zeit 1200s gespeichert.
+2025-01-28 17:51:36,659 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,674 - INFO - Daten für Teilchen 2 bei Zeit 1200s gespeichert.
+2025-01-28 17:51:36,777 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,788 - INFO - Daten für Teilchen 1 bei Zeit 1260s gespeichert.
+2025-01-28 17:51:36,789 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,804 - INFO - Daten für Teilchen 2 bei Zeit 1260s gespeichert.
+2025-01-28 17:51:36,905 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,919 - INFO - Daten für Teilchen 1 bei Zeit 1320s gespeichert.
+2025-01-28 17:51:36,920 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:36,935 - INFO - Daten für Teilchen 2 bei Zeit 1320s gespeichert.
+2025-01-28 17:51:37,036 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,053 - INFO - Daten für Teilchen 1 bei Zeit 1380s gespeichert.
+2025-01-28 17:51:37,054 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,068 - INFO - Daten für Teilchen 2 bei Zeit 1380s gespeichert.
+2025-01-28 17:51:37,169 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,183 - INFO - Daten für Teilchen 1 bei Zeit 1440s gespeichert.
+2025-01-28 17:51:37,187 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,206 - INFO - Daten für Teilchen 2 bei Zeit 1440s gespeichert.
+2025-01-28 17:51:37,312 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,327 - INFO - Daten für Teilchen 1 bei Zeit 1500s gespeichert.
+2025-01-28 17:51:37,328 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,343 - INFO - Daten für Teilchen 2 bei Zeit 1500s gespeichert.
+2025-01-28 17:51:37,445 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,458 - INFO - Daten für Teilchen 1 bei Zeit 1560s gespeichert.
+2025-01-28 17:51:37,459 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,472 - INFO - Daten für Teilchen 2 bei Zeit 1560s gespeichert.
+2025-01-28 17:51:37,573 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,588 - INFO - Daten für Teilchen 1 bei Zeit 1620s gespeichert.
+2025-01-28 17:51:37,589 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,602 - INFO - Daten für Teilchen 2 bei Zeit 1620s gespeichert.
+2025-01-28 17:51:37,703 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,718 - INFO - Daten für Teilchen 1 bei Zeit 1680s gespeichert.
+2025-01-28 17:51:37,719 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,732 - INFO - Daten für Teilchen 2 bei Zeit 1680s gespeichert.
+2025-01-28 17:51:37,834 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,846 - INFO - Daten für Teilchen 1 bei Zeit 1740s gespeichert.
+2025-01-28 17:51:37,848 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,862 - INFO - Daten für Teilchen 2 bei Zeit 1740s gespeichert.
+2025-01-28 17:51:37,964 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,979 - INFO - Daten für Teilchen 1 bei Zeit 1800s gespeichert.
+2025-01-28 17:51:37,980 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:37,994 - INFO - Daten für Teilchen 2 bei Zeit 1800s gespeichert.
+2025-01-28 17:51:38,095 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,111 - INFO - Daten für Teilchen 1 bei Zeit 1860s gespeichert.
+2025-01-28 17:51:38,112 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,125 - INFO - Daten für Teilchen 2 bei Zeit 1860s gespeichert.
+2025-01-28 17:51:38,226 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,241 - INFO - Daten für Teilchen 1 bei Zeit 1920s gespeichert.
+2025-01-28 17:51:38,242 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,259 - INFO - Daten für Teilchen 2 bei Zeit 1920s gespeichert.
+2025-01-28 17:51:38,361 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,375 - INFO - Daten für Teilchen 1 bei Zeit 1980s gespeichert.
+2025-01-28 17:51:38,376 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,388 - INFO - Daten für Teilchen 2 bei Zeit 1980s gespeichert.
+2025-01-28 17:51:38,490 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,504 - INFO - Daten für Teilchen 1 bei Zeit 2040s gespeichert.
+2025-01-28 17:51:38,505 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,521 - INFO - Daten für Teilchen 2 bei Zeit 2040s gespeichert.
+2025-01-28 17:51:38,622 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,638 - INFO - Daten für Teilchen 1 bei Zeit 2100s gespeichert.
+2025-01-28 17:51:38,639 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,653 - INFO - Daten für Teilchen 2 bei Zeit 2100s gespeichert.
+2025-01-28 17:51:38,755 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,767 - INFO - Daten für Teilchen 1 bei Zeit 2160s gespeichert.
+2025-01-28 17:51:38,768 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,779 - INFO - Daten für Teilchen 2 bei Zeit 2160s gespeichert.
+2025-01-28 17:51:38,880 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,893 - INFO - Daten für Teilchen 1 bei Zeit 2220s gespeichert.
+2025-01-28 17:51:38,894 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:38,907 - INFO - Daten für Teilchen 2 bei Zeit 2220s gespeichert.
+2025-01-28 17:51:39,008 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,023 - INFO - Daten für Teilchen 1 bei Zeit 2280s gespeichert.
+2025-01-28 17:51:39,024 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,037 - INFO - Daten für Teilchen 2 bei Zeit 2280s gespeichert.
+2025-01-28 17:51:39,139 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,153 - INFO - Daten für Teilchen 1 bei Zeit 2340s gespeichert.
+2025-01-28 17:51:39,154 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,170 - INFO - Daten für Teilchen 2 bei Zeit 2340s gespeichert.
+2025-01-28 17:51:39,271 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,288 - INFO - Daten für Teilchen 1 bei Zeit 2400s gespeichert.
+2025-01-28 17:51:39,289 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,303 - INFO - Daten für Teilchen 2 bei Zeit 2400s gespeichert.
+2025-01-28 17:51:39,404 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,418 - INFO - Daten für Teilchen 1 bei Zeit 2460s gespeichert.
+2025-01-28 17:51:39,419 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,433 - INFO - Daten für Teilchen 2 bei Zeit 2460s gespeichert.
+2025-01-28 17:51:39,534 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,549 - INFO - Daten für Teilchen 1 bei Zeit 2520s gespeichert.
+2025-01-28 17:51:39,550 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,564 - INFO - Daten für Teilchen 2 bei Zeit 2520s gespeichert.
+2025-01-28 17:51:39,666 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,681 - INFO - Daten für Teilchen 1 bei Zeit 2580s gespeichert.
+2025-01-28 17:51:39,682 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,696 - INFO - Daten für Teilchen 2 bei Zeit 2580s gespeichert.
+2025-01-28 17:51:39,797 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,812 - INFO - Daten für Teilchen 1 bei Zeit 2640s gespeichert.
+2025-01-28 17:51:39,813 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,826 - INFO - Daten für Teilchen 2 bei Zeit 2640s gespeichert.
+2025-01-28 17:51:39,927 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,942 - INFO - Daten für Teilchen 1 bei Zeit 2700s gespeichert.
+2025-01-28 17:51:39,943 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:39,954 - INFO - Daten für Teilchen 2 bei Zeit 2700s gespeichert.
+2025-01-28 17:51:40,056 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,069 - INFO - Daten für Teilchen 1 bei Zeit 2760s gespeichert.
+2025-01-28 17:51:40,070 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,084 - INFO - Daten für Teilchen 2 bei Zeit 2760s gespeichert.
+2025-01-28 17:51:40,186 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,201 - INFO - Daten für Teilchen 1 bei Zeit 2820s gespeichert.
+2025-01-28 17:51:40,202 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,215 - INFO - Daten für Teilchen 2 bei Zeit 2820s gespeichert.
+2025-01-28 17:51:40,317 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,339 - INFO - Daten für Teilchen 1 bei Zeit 2880s gespeichert.
+2025-01-28 17:51:40,341 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,359 - INFO - Daten für Teilchen 2 bei Zeit 2880s gespeichert.
+2025-01-28 17:51:40,460 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,476 - INFO - Daten für Teilchen 1 bei Zeit 2940s gespeichert.
+2025-01-28 17:51:40,477 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,490 - INFO - Daten für Teilchen 2 bei Zeit 2940s gespeichert.
+2025-01-28 17:51:40,591 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,605 - INFO - Daten für Teilchen 1 bei Zeit 3000s gespeichert.
+2025-01-28 17:51:40,606 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,619 - INFO - Daten für Teilchen 2 bei Zeit 3000s gespeichert.
+2025-01-28 17:51:40,720 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,734 - INFO - Daten für Teilchen 1 bei Zeit 3060s gespeichert.
+2025-01-28 17:51:40,735 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,747 - INFO - Daten für Teilchen 2 bei Zeit 3060s gespeichert.
+2025-01-28 17:51:40,869 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,900 - INFO - Daten für Teilchen 1 bei Zeit 3120s gespeichert.
+2025-01-28 17:51:40,920 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:40,932 - INFO - Daten für Teilchen 2 bei Zeit 3120s gespeichert.
+2025-01-28 17:51:41,033 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,049 - INFO - Daten für Teilchen 1 bei Zeit 3180s gespeichert.
+2025-01-28 17:51:41,050 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,063 - INFO - Daten für Teilchen 2 bei Zeit 3180s gespeichert.
+2025-01-28 17:51:41,164 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,179 - INFO - Daten für Teilchen 1 bei Zeit 3240s gespeichert.
+2025-01-28 17:51:41,180 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,193 - INFO - Daten für Teilchen 2 bei Zeit 3240s gespeichert.
+2025-01-28 17:51:41,294 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,311 - INFO - Daten für Teilchen 1 bei Zeit 3300s gespeichert.
+2025-01-28 17:51:41,312 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,324 - INFO - Daten für Teilchen 2 bei Zeit 3300s gespeichert.
+2025-01-28 17:51:41,427 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,455 - INFO - Daten für Teilchen 1 bei Zeit 3360s gespeichert.
+2025-01-28 17:51:41,458 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,480 - INFO - Daten für Teilchen 2 bei Zeit 3360s gespeichert.
+2025-01-28 17:51:41,581 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,599 - INFO - Daten für Teilchen 1 bei Zeit 3420s gespeichert.
+2025-01-28 17:51:41,600 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,625 - INFO - Daten für Teilchen 2 bei Zeit 3420s gespeichert.
+2025-01-28 17:51:41,728 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,740 - INFO - Daten für Teilchen 1 bei Zeit 3480s gespeichert.
+2025-01-28 17:51:41,741 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:41,754 - INFO - Daten für Teilchen 2 bei Zeit 3480s gespeichert.
+2025-01-28 17:51:41,938 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:42,053 - INFO - Daten für Teilchen 1 bei Zeit 3540s gespeichert.
+2025-01-28 17:51:42,053 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:42,093 - INFO - Daten für Teilchen 2 bei Zeit 3540s gespeichert.
+2025-01-28 17:51:42,195 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:42,208 - INFO - Daten für Teilchen 1 bei Zeit 3600s gespeichert.
+2025-01-28 17:51:42,209 - DEBUG - Berechnete starke Wechselwirkung: 1.00e+32 N bei Abstand 1.00e-16 m
+2025-01-28 17:51:42,220 - INFO - Daten für Teilchen 2 bei Zeit 3600s gespeichert.
+2025-01-28 17:51:42,321 - INFO - Simulation der starken Wechselwirkung abgeschlossen.
